@@ -1,2 +1,7 @@
 # Extract-words-from-Excel
-엑셀에서 영어 단어 추출
+
+Program : Word matching program
+
+For test, I need file include english and korea words
+
+so let's extract words from excel!
